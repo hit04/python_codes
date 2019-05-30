@@ -8,7 +8,7 @@
 #  Around the world, abaci have been used in pre-schools and elementary
 #
 # In Western countries, a bead frame similar to the Russian abacus but
-# with straight wires and a vertical frame has been common (see im age).
+# with straight wires and a vertical frame has been common (see image).
 # Helps schools as an aid in teaching the numeral system and arithmetic
 #
 #         |00000*****   |     row factor 1000000000
